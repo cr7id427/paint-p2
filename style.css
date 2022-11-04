@@ -1,0 +1,35 @@
+.body_background {
+  background-image:url("og_anfield_trio.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+body{
+  cursor: pointer;
+}
+
+h1{
+  color: #91d7fa;
+  font-size: 48.566px;
+}
+#myCanvas
+{
+  border-width: 14px;
+  background-color: White;
+  border-style: wedge;
+}
+
+button {
+background-color: #5c9174;
+border: none;
+color: white;
+padding: 10px 42px;
+font-size: 14.2983px;
+}
+
+input{
+  margin-right: 20px;
+}
+
+
+  
